@@ -1,3 +1,5 @@
+# game.py
+# Contains the main game loop and handles the game logic.
 import pygame
 from config import WIDTH, HEIGHT, BLACK, DARK_GREY, LIGHT_BLUE, WHITE
 from paddle import Paddle
