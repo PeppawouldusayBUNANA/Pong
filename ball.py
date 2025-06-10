@@ -1,3 +1,5 @@
+#ball.py
+# This module defines the Ball class for a Pong game.
 from config import WIDTH, HEIGHT, BALL_RADIUS, BALL_SPEED, PADDLE_HEIGHT
 import pygame
 import random
