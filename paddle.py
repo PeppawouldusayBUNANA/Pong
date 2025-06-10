@@ -1,3 +1,5 @@
+# paddle.py
+# Handles the paddle logic for the game, including player and AI paddles.
 from config import PADDLE_WIDTH, PADDLE_HEIGHT, PLAYER_VEL, AI_VEL, HEIGHT
 import pygame
 
