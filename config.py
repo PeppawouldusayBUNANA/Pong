@@ -1,3 +1,5 @@
+# config.py
+# This module contains all the constants and congiguration settings for the game.
 import pygame
 
 WIDTH, HEIGHT = 800, 600
